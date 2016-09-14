@@ -1,0 +1,24 @@
+{
+  "name": "apentle-theme-example",
+  "version": "0.1.0",
+  "description": "An apentle theme example!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apentle/apentle-theme-example.git"
+  },
+  "keywords": [
+    "apentle",
+    "theme",
+    "example"
+  ],
+  "author": "Doan Nguyen <doannd@apentle.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apentle/apentle-theme-example/issues"
+  },
+  "homepage": "https://github.com/apentle/apentle-theme-example#readme"
+}
