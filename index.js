@@ -7,5 +7,19 @@
  */
 
 module.exports = {
+  willLoad: function() {
+    // Run before load theme
 
+  },
+  components: {
+    App: require('./containers/App')
+  },
+  styles: require('./styles'),
+  i18n: require('./i18n'),
+  actions: require('./actions'),
+  reducers: require('./reducers'),
+  loaded: function() {
+    // Run after theme loaded
+
+  },
 };
