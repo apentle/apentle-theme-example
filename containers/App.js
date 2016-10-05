@@ -23,7 +23,7 @@ var App = React.createClass({
   render: function() {
     return (
       <View class="container">
-        <Welcome />
+        <Welcome id="welcome" />
         <Random random={this.props.random} generator={this.props.genRandom} />
       </View>
     );

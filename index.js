@@ -12,7 +12,7 @@ module.exports = {
 
   },
   components: {
-    App: require('./containers/App')
+    App: () => require('./containers/App'), // Lazy load App Component
   },
   styles: require('./styles'),
   i18n: require('./i18n'),

@@ -1,6 +1,6 @@
 {
   "name": "apentle-theme-example",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An apentle theme example!",
   "main": "index.js",
   "scripts": {
